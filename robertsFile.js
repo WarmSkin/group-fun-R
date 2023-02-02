@@ -1,0 +1,1 @@
+const myFile = 'this is my file'
