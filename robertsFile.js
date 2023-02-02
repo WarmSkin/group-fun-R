@@ -1,1 +1,1 @@
-const myFile = 'this is my file'
+const myFile = 'really cool file'
